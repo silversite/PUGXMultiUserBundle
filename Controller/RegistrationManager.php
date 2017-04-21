@@ -50,7 +50,7 @@ class RegistrationManager
     /**
      * @param string $class
      *
-     * @return \Symfony\Component\HttpFoundation\RedirectResponse
+     * @return \Symfony\Component\HttpFoundation\Response
      */
     public function register($class)
     {
